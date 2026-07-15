@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+saved_files/*.db
+charts.html
+.pytest_cache/
+.venv/
+venv/
